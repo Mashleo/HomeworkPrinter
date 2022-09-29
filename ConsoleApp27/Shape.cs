@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ConsoleApp27
 {
-    public abstract class Shape
+    public abstract class Shape 
     {
-        public Shape(int x1, int y1, char s1)
+        public Shape(int x1, int y1, string s1)
         {
             hight = x1;
             width = y1;
@@ -14,13 +14,11 @@ namespace ConsoleApp27
         }
         public int hight { get; set; }
         public int width { get; set; }
-        public char symbol { get; set; }
-
-
-
-        public virtual void PrintFigure(int y1)
+        public string symbol { get; set; }
+       
+        public virtual void PrintFigure(int x1,int y1)
         {
-            
+
         }
     }
 }

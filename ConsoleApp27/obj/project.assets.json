@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mashlyakevich_lk\\source\\repos\\ConsoleApp27\\ConsoleApp27\\ConsoleApp27.csproj",
+      "projectUniqueName": "C:\\Users\\mashlyakevich_lk\\Desktop\\TechMeSkills\\TeachMeSkiils\\HomeworkPrinter\\ConsoleApp27\\ConsoleApp27.csproj",
       "projectName": "ConsoleApp27",
-      "projectPath": "C:\\Users\\mashlyakevich_lk\\source\\repos\\ConsoleApp27\\ConsoleApp27\\ConsoleApp27.csproj",
+      "projectPath": "C:\\Users\\mashlyakevich_lk\\Desktop\\TechMeSkills\\TeachMeSkiils\\HomeworkPrinter\\ConsoleApp27\\ConsoleApp27.csproj",
       "packagesPath": "C:\\Users\\mashlyakevich_lk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mashlyakevich_lk\\source\\repos\\ConsoleApp27\\ConsoleApp27\\obj\\",
+      "outputPath": "C:\\Users\\mashlyakevich_lk\\Desktop\\TechMeSkills\\TeachMeSkiils\\HomeworkPrinter\\ConsoleApp27\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mashlyakevich_lk\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,13 +6,13 @@ namespace ConsoleApp27
 {
     class Triangle: Shape
     {
-        public Triangle(int x1, int y1, char s1) : base(x1, y1, s1)
+        public Triangle(int x1, int y1, string s1) : base(x1, y1, s1)
         {
 
         }
 
 
-        public override void PrintFigure(int y1 )
+        public override void PrintFigure(int x, int y1)
         {
             int i = 0;
             int j = 0;
@@ -32,7 +32,7 @@ namespace ConsoleApp27
 
                 }
             }
-           
+
 
         }
     }

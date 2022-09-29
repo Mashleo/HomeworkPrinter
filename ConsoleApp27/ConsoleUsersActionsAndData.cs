@@ -31,12 +31,25 @@ namespace ConsoleApp27
 
             return enterChoise;
         }
-        public static char EnterSymbol()
+        public static string EnterSymbol()
         {
             Console.Write("Enter symbol - ");            
-            char enterChar = Convert.ToChar(Console.ReadLine());
-            Console.Clear();
+            string enterChar = Console.ReadLine();
+            
             return enterChar;
+        }
+        public static void ClearPrewievString()
+        {
+            string emptyString = "                                                  ";
+            Console.SetCursorPosition(0, 0);
+            for (int i = 0; i < 6; i++)
+            {
+                Console.WriteLine(emptyString);
+            }
+            Console.SetCursorPosition(0, 0);
+
+
+
         }
         public static int EnterHight()
         {

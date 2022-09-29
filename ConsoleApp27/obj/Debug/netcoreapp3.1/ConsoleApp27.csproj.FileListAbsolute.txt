@@ -11,3 +11,16 @@ C:\Users\mashlyakevich_lk\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netco
 C:\Users\mashlyakevich_lk\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.dll
 C:\Users\mashlyakevich_lk\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.pdb
 C:\Users\mashlyakevich_lk\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.genruntimeconfig.cache
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.exe
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.deps.json
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.json
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.dev.json
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csproj.AssemblyReference.cache
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfo.cs
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\mashlyakevich_lk\Desktop\TechMeSkills\TeachMeSkiils\HomeworkPrinter\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.genruntimeconfig.cache
