@@ -4,8 +4,10 @@ using System.Text;
 
 namespace ConsoleApp27
 {
+    [Color(ColorText.Blue)]
     class Text : Shape
     {
+        
         public Text(int x1, int y1, string s1) : base(x1, y1, s1)
         {
             hight = x1;
@@ -13,9 +15,16 @@ namespace ConsoleApp27
             symbol = s1;
 
         }
-        public override void PrintFigure(int x, int y1)
+
+
+        
+
+
+        public override void PrintFigure(Action<string> printSymbol, int x, int y1)
         {
-            Console.WriteLine(symbol);
+            
+            printSymbol(symbol);
+            
         }
     }
 }

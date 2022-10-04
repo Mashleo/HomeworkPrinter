@@ -31,6 +31,21 @@ namespace ConsoleApp27
 
             return enterChoise;
         }
+        public static void SetColorFromAttribute(Shape shape)
+        {
+            var attributr = shape.GetType().GetCustomAttributes(false);
+
+            foreach (var att in attributr)
+            {
+                if (att is ColorAttribute col)
+                {
+
+                    var color = col.Color;
+                    ConsoleUsersActionsAndData.SetColor(color);
+                }
+            }
+        }
+
         public static string EnterSymbol()
         {
             Console.Write("Enter symbol - ");            
@@ -47,6 +62,27 @@ namespace ConsoleApp27
                 Console.WriteLine(emptyString);
             }
             Console.SetCursorPosition(0, 0);
+
+
+
+        }
+        public static  void SetColor(ColorText col)
+        {
+            
+
+            switch (col)
+            {
+                case ColorText.Green:
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    break;
+                case ColorText.Red:
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    break;
+                case ColorText.Blue:
+                    Console.ForegroundColor = ConsoleColor.Blue;
+                    break;
+
+            }
 
 
 

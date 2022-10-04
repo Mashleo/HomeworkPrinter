@@ -11,8 +11,8 @@ namespace ConsoleApp27
 
         }
 
-
-        public override void PrintFigure(int x, int y1)
+        [Color(ColorText.Blue)]
+        public override void PrintFigure(Action<string> symbol1,int x, int y1)
         {
             int i = 0;
             int j = 0;

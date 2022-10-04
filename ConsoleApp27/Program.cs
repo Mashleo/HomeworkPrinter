@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 
 namespace ConsoleApp27
 {
@@ -7,18 +8,13 @@ namespace ConsoleApp27
     {
         static void Main(string[] args)
         {
-            
-            
-            
-            RunningPrint.SwitchAndCase();
 
-           
-           
-            
-            
 
-            
-            
+            RunningPrint.SwitchAndCase(); 
+
+          
         }
     }
+    
+
 }

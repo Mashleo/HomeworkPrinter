@@ -16,7 +16,7 @@ namespace ConsoleApp27
         public int width { get; set; }
         public string symbol { get; set; }
        
-        public virtual void PrintFigure(int x1,int y1)
+        public virtual void PrintFigure(Action<string> symbol,int x1,int y1)
         {
 
         }
